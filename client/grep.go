@@ -3,7 +3,7 @@ package client
 import (
 	"ansi"
 	"fmt"
-	"hound/config"
+	"github.com/etsy/hound/config"
 	"os"
 	"regexp"
 )

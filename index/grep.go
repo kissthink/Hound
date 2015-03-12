@@ -3,7 +3,7 @@ package index
 import (
 	"bytes"
 	"compress/gzip"
-	"hound/codesearch/regexp"
+	"github.com/etsy/hound/codesearch/regexp"
 	"io"
 	"os"
 )

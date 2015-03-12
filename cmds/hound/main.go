@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/json"
 	"flag"
-	"hound/client"
-	"hound/index"
+	"github.com/etsy/hound/client"
+	"github.com/etsy/hound/index"
 	"log"
 	"os"
 	"os/user"

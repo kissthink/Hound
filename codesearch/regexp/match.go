@@ -14,7 +14,7 @@ import (
 	"regexp/syntax"
 	"sort"
 
-	"hound/codesearch/sparse"
+	"github.com/etsy/hound/codesearch/sparse"
 )
 
 // A matcher holds the state for running regular expression search.

@@ -3,9 +3,9 @@ package api
 import (
 	"encoding/json"
 	"fmt"
-	"hound/config"
-	"hound/index"
-	"hound/searcher"
+	"github.com/etsy/hound/config"
+	"github.com/etsy/hound/index"
+	"github.com/etsy/hound/searcher"
 	"log"
 	"net/http"
 	"strconv"

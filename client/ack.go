@@ -4,7 +4,7 @@ import (
 	"ansi"
 	"bytes"
 	"fmt"
-	"hound/config"
+	"github.com/etsy/hound/config"
 	"os"
 	"regexp"
 )

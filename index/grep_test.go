@@ -3,7 +3,7 @@ package index
 import (
 	"bytes"
 	"fmt"
-	"hound/codesearch/regexp"
+	"github.com/etsy/hound/codesearch/regexp"
 	"strings"
 	"testing"
 )
